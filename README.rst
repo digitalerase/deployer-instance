@@ -13,4 +13,4 @@ Used by deployer-extended, deployer-extended-media and deployer-extended-databas
 Changelog
 ---------
 
-See https://github.com/sourcebroker/deployer-instance/blob/master/CHANGELOG.rst
+See https://github.com/digitalerase/deployer-instance/blob/master/CHANGELOG.rst
